@@ -15,14 +15,14 @@
 
 ---
 ### 🏅 Certifications
-- [Angular Web Developer Certification]() - Infosys Springboard
-- [Young Python Professional]() - Infosys Springboard
-- [DevOps workshop and Hackathon Participation Certificate]() - SRKR CSI
-- [Web Development Certificate]() - SRKREC
-- [Introduction to Cyber Security]() - CISCO NETWORKING ACADEMY
-- [Foundation of Cloud IoT]() - NPTEL
-- [Data Science for Engineers]() - NPTEL
-- [Programming in Java]() - NPTEL
+- [Angular Web Developer Certification](https://github.com/snehasri147/certifications/blob/main/Angular%20Dveloper%20Infosys.pdf) - Infosys Springboard
+- [Young Python Professional](https://github.com/snehasri147/certifications/blob/main/Python%20professional%20Infosys.pdf) - Infosys Springboard
+- [DevOps workshop and Hackathon Participation Certificate](https://github.com/snehasri147/certifications/blob/main/Workshop%20%26%20Hackathon%20Certificates%20(2).pdf) - SRKR CSI
+- [Web Development Certificate](https://github.com/snehasri147/certifications/blob/main/IT-STP-24-021-rotated.pdf) - SRKREC
+- [Introduction to Cyber Security](https://github.com/snehasri147/certifications/blob/main/Introduction%20to%20Cyber%20Security.pdf) - CISCO NETWORKING ACADEMY
+- [Foundation of Cloud IoT](https://github.com/snehasri147/certifications/blob/main/Foundation%20of%20Cloud%20IoT%20Edge%20ML.pdf) - NPTEL
+- [Data Science for Engineers](https://github.com/snehasri147/certifications/blob/main/Data%20Science%20for%20Engineers.pdf) - NPTEL
+- [Programming in Java](https://github.com/snehasri147/certifications/blob/main/Programming%20In%20Java%20nptel%20certificate%20sneha.pdf) - NPTEL
 ---
 
 ## 💻 Languages and Technologies Known
@@ -40,7 +40,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehasri147&theme=tokyonight" />
 </p>
----
+
 
 ### 🌐 Let's Connect
 
